@@ -1,0 +1,70 @@
+
+#title {
+    height: 600px;
+}
+
+#title > .container > div{
+    
+    justify-content: center;
+    align-items: center;
+    padding-top: 130px;
+
+}
+
+#rush {
+    color: rgb(12, 170, 209);
+}
+
+#propic {
+    border-radius: 50%;
+}
+
+.lead {
+    color: black;
+    font-weight: 100;
+}
+/* 
+section > div {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#featured-3 > div > *{
+    justify-content: center;
+    display: inline-block;
+
+} */
+
+
+.ul > * {
+    list-style:none;
+    /* text-align: left; */
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.skilz {
+    font-weight: 700;
+    color: rgb(12, 170, 209);
+}
+
+body {
+    text-align: center;
+}
+
+hr {
+    border: dotted rgb(39, 147, 174) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    unicode-bidi: isolate;
+    overflow: hidden;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    
+}
